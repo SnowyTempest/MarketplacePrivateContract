@@ -12,6 +12,11 @@ A decentralized data marketplace built on the Stacks blockchain for secure buyin
 
 ---
 
+## Contract Address
+ST3QCG69X9XQMYPP8ZZNDTQH5RYHYF4N9BASK3YQG.privatedata-marketplace
+![WhatsApp Image 2025-08-24 at 17 08 08_f84905ad](https://github.com/user-attachments/assets/ee092b92-c27a-46c3-9a28-c4dd457e2993)
+
+
 ## 🚀 Setup Instructions
 
 1. **Clone the Repository**
@@ -48,7 +53,7 @@ A decentralized data marketplace built on the Stacks blockchain for secure buyin
 
 ## 📄 Smart Contract Address
 
-- **Testnet Address:** `SPXXXXXXX.marketplace`  
+- **Testnet Address:** `ST3QCG69X9XQMYPP8ZZNDTQH5RYHYF4N9BASK3YQG.privatedata-marketplace`  
   *(Replace with your deployed contract address)*
 
 ---
